@@ -4,10 +4,8 @@ SciPy version: 1.9.1
 Pandas version: 1.4.4
 Pandas-Profiling version: 3.6.6
 Deepchecks version: 0.17.3
-Plotly version not found
 Statsmodels version: 0.14.0
 Matplotlib version: 3.5.2
 Altair version: 5.0.1
-Plotly Express version not found
 Sympy version: 1.10.1
 Seaborn version: 0.11.2
